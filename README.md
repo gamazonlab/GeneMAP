@@ -1,7 +1,6 @@
 # GeneMAP [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gamazonlab/GeneMAP/blob/master/LICENSE) 
 
-# Metabolic gene function discovery platform GeneMAP identifies SLC25A48
-# as necessary for mitochondrial choline import 
+# Metabolic gene function discovery platform GeneMAP identifies SLC25A48 as necessary for mitochondrial choline import 
 
 Artem Khan, Gokhan Unlu, Phillip Lin, Yuyang Liu, Ece Kilic, Timothy C. Kenny, 
 Kıvanç Birsoy*, and Eric R. Gamazon*
