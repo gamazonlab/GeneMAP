@@ -2,8 +2,8 @@
 
 # Metabolic gene function discovery platform GeneMAP identifies SLC25A48 as necessary for mitochondrial choline import 
 
-Artem Khan1, Gokhan Unlu1, Phillip Lin2, Yuyang Liu1, Ece Kilic1, Timothy C. Kenny1, 
-Kıvanç Birsoy1*, and Eric R. Gamazon2,3*
+Artem Khan<sup>1</sup>, Gokhan Unlu<sup>1</sup>, Phillip Lin<sup>2</sup>, Yuyang Liu<sup>1</sup>, Ece Kilic<sup>1</sup>, Timothy C. Kenny<sup>1</sup>, 
+Kıvanç Birsoy<sup>1*</sup>, and Eric R. Gamazon<sup>2,3*</sup>
 
 1 Laboratory of Metabolic Regulation and Genetics, The Rockefeller University, New York, NY, USA
 2 Division of Genetic Medicine, Department of Medicine, Vanderbilt University Medical Center, Nashville, TN, USA
